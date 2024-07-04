@@ -2,8 +2,8 @@
 /**
  * Escreva uma descrição da classe VSource aqui.
  * 
- * @author (seu nome) 
- * @version (um número da versão ou uma data)
+ * @author (JoaoFerro) 
+ * @version (0.01)
  */
 public class VSource extends Comp{
     
