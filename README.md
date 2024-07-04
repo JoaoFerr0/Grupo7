@@ -21,3 +21,7 @@ modelar os componentes a serem utilizados, além de criar métodos para fazer
 eles interagirem entre si a fim de formar um sistema mais complexo. No caso
 da análise no domínio da frequência será necessaŕio criar um modo de levar
 os atributos reais modelados para este domínio e usá-los nos cálculos.
+
+O objetivo geral do projeto é desenvolver uma aplicação que simule o 
+comportamento de um circuito elétrico de acordo com os parâmetros dos 
+componentes dados pelo usuário. 
