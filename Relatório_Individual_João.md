@@ -30,6 +30,10 @@ de admitâncias com base nas condições de contorno impostas pela fonte de tens
 executados alguns testes com o intuito de validar os resultados, usando como base de comparação um simulador comercial desenvolvido para plataforma 
 mobile (app: Proto, disponível em Play Store em 07/08/2024). O modelo funciona com precisão para o escopo definido. com excessão de um bug na 
 parte de análise de cirucitos DC.
+As minhas principais constribuições no desenvolvimento do modelo foram a craição da ideia inicial das classes, a explicação da ideia do modelo 
+aos meus companheiros de grupo, e por fim o desenvolvimento total das classes Node, objetos de integração para definição de topologia e análise,
+e Circuito, que abarca as ferramentas de definição de topologia, preenchimento de matrizes e vetores, e resolução de sistemas lineares. Como líder
+do projeto também fui responsável por limpar o repositório de classes e arquivos já descartados do desenvolvimento.
 **Avaliação de grupo**
 Em relação ao desenvolvimento das classes do modelo por parte dos meus colegas de grupo, estamos satisfeitos, pois houve empenho e colaboração, 
 apesar de ter existido uma barreira de dificuldade inicial na compreensão do tema visto que apenas eu conhecia a teoria por trás do modelo.
