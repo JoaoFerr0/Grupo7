@@ -45,6 +45,7 @@ desenvolvimento da interface gráfica; cooperar no desenvolvimento da integraç�
 - Viviano: desevolver adequadamente algumas classe básicas do projeto, produzir documentação adequada para as classes desenvolvidas, cooperar no
 desenvolvimento da interface gráfica; cooperar no desenvolvimento da integração GUI/model com arquitetura MVC.
   
+## Modelagem inicial
 
 
 
