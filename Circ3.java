@@ -5,7 +5,7 @@
  * @author (seu nome) 
  * @version (um número da versão ou uma data)
  */
-public class Circ3 extends Circ{
+public class Circ3 {
     public static void execute(String[] args) {
         // Criar a fonte de tensão (ela cria seus próprios nós internamente)
         VSource fonte = new VSource(5, 60); // 5V, 60 Hz
