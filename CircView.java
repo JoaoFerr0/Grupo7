@@ -8,42 +8,6 @@ import java.net.URL;
 import javafx.scene.layout.Pane;
 import javafx.scene.layout.AnchorPane;
 
-
-/*public class CircView extends Application 
-{
-    private FXMLLoader loader;
-    private URL url;
-        
-    public CircView(){
-        this.loader = new FXMLLoader();
-        try{
-            this.url = new File("INTERF.fxml").toURI().toURL();
-        }catch(Exception e){
-            System.out.println("Erro na carga da FXML:" + e);
-        }
-    }
-    
-    public void setController(CircController controller){
-        this.loader.setController(controller);        
-    }
-       
-    @Override
-    public void start(Stage primaryStage) throws Exception {
-        Parent anchorpane = loader.<AnchorPane>load();
-        Scene scene = new Scene(anchorpane);
-        primaryStage.setScene(scene);
-        primaryStage.setTitle("Calculador de Circuito");
-        //primaryStage.setScene(new Scene(root));
-        //primaryStage.show();
-    }
-    
-    public static void main(String[] args){
-        launch(args);
-    }
-}*/
-
-//----------------------------------------------------------------------------------------------------
-
 public class CircView extends Application {
     private FXMLLoader loader;
     private URL url;
