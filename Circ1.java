@@ -1,4 +1,4 @@
-public class Circ1 extends Circ{
+public class Circ1{
     public static void execute(String[] args) {
         // Criar a fonte de tensão (ela cria seus próprios nós internamente)
         VSource fonte = new VSource(5, 60); // 5V, 60 Hz
