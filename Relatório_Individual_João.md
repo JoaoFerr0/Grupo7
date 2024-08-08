@@ -33,7 +33,8 @@ parte de análise de cirucitos DC.
 As minhas principais constribuições no desenvolvimento do modelo foram a craição da ideia inicial das classes, a explicação da ideia do modelo 
 aos meus companheiros de grupo, e por fim o desenvolvimento total das classes Node, objetos de integração para definição de topologia e análise,
 e Circuito, que abarca as ferramentas de definição de topologia, preenchimento de matrizes e vetores, e resolução de sistemas lineares. Como líder
-do projeto também fui responsável por limpar o repositório de classes e arquivos já descartados do desenvolvimento.
+do projeto também fui responsável por limpar o repositório de classes e arquivos já descartados do desenvolvimento além de produzir o relatório 
+geral do grupo.  
 **Avaliação de grupo**
 Em relação ao desenvolvimento das classes do modelo por parte dos meus colegas de grupo, estamos satisfeitos, pois houve empenho e colaboração, 
 apesar de ter existido uma barreira de dificuldade inicial na compreensão do tema visto que apenas eu conhecia a teoria por trás do modelo.
