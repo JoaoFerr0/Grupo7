@@ -12,7 +12,8 @@ O meu grupo tinha apenas 3 pessoas então dividimos as tarefas da seguinte manei
 
 ## 4. Interface 
 A inteface foi feita por mim e pelo Viviano em sua maioria já que o João ficou com a parte de fazer o código de contas. A ideia inicial não foi atendida devido a complexidade da interface e o tempo era pouco, então descidimos reduzir para 4 modelos já feitos e já testados ficando assim a interface:
-![Interface do programa](imagemInterf.png)
+
+![Interface da aplicação](imagemInterf.png)
 
 O código fxml dela ficou assim:
 ```
