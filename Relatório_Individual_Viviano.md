@@ -14,4 +14,7 @@ Ao refletir sobre este projeto desafiador de programação, percebo o quanto ine
 O paradigma de orientação a objetos foi um desafio adicional, pois não e fácil pensar desse modo, mas relações entre objetos, abstrair e construir um código que modele fielmente essas interações.  
 No entanto, foi o apoio e colaboração com os meus colegas que fizeram toda a diferença, eles me ajudaram a entender conceitos difíceis, compartilharam suas próprias experiencias e me incentivaram a continuar.  
 Através desse projeto, não só adquiri novas habilidades técnicas na programação orientada a objetos, mas também aprendi a importância do trabalho em equipe e resiliência.
+# Commits #
+(https://github.com/JoaoFerr0/Grupo7/activity?actor=VivianoParaguayo)  
+
 
