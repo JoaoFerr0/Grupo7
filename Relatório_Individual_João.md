@@ -53,6 +53,10 @@ contínua.
 A interface pode ser desenvolvida e apromorada para abarcar não somente topologias predefinidas de demonstração, mas dando liberdade para a 
 criação de topologias de circuitos novas por parte dos usuários. Ainda nesta ideia, poder-se-ia desenvolver a ideia de alimentar um banco de 
 dados da aplicação com as novas topologias criadas, dando tanto a opção de procurar no banco assim como a de criar novas topologias.
+## Lista de commits 
+Para conferência, a lista de commits feitos por mim no repositório, ou aceitas por mim como líder do grupo pode ser visualizada no seguinte 
+link  
+[Lista de commits de João Victor](https://github.com/JoaoFerr0/Grupo7/activity?actor=JoaoFerr0)
 
 
 
