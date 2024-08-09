@@ -12,7 +12,8 @@ O meu grupo tinha apenas 3 pessoas então dividimos as tarefas da seguinte manei
 
 ## 4. Interface 
 A inteface foi feita por mim e pelo Viviano em sua maioria já que o João ficou com a parte de fazer o código de contas. A ideia inicial não foi atendida devido a complexidade da interface e o tempo era pouco, então descidimos reduzir para 4 modelos já feitos e já testados ficando assim a interface:
-![Interface do programa](Imagens/imagemInterf.PNG)
+![Interface do programa](imagemInterf.png)
+
 O código fxml dela ficou assim:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -230,3 +231,7 @@ public class CircView extends Application {
 ## 5. Conclusão
 
 Esse projeto foi sem dúvidas muito desafiador, não so na parte lógica mas ainda mais na parte de como passar os comandos de maneira correta para o programa fazer as contas de maneira precisa. Mas sempre que precisava de ajuda meu colegas de grupo me ajudavam com podiam, mesmo tendo sido estressante em alguns momentos quando o programa não entendia como era pra fazer as contas ou como era pra executar tal ação, é muito bom ver o resultado final funcionando tudo encaixado, tivemos que alterar bastante a nossa ideia inicial mas acredito que a essência do projeto ainda é a mesma.
+
+## Lista de Commits
+Para conferência, a lista de commits feitos por mim no repositório, ou aceitas pelo lider do projeto João Victor pode ser visto no seguinte link
+[Lista de commits de Theodoro Costa](https://github.com/JoaoFerr0/Grupo7/activity?actor=TheodoroModesto)
